@@ -146,7 +146,7 @@ MIRROR_LOG_ID = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
 BASE_URL = ""
-BASE_URL_PORT = 0
+BASE_URL_PORT = 80
 WEB_PINCODE = True
 
 # Queueing system

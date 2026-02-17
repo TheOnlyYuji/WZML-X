@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "8565483914:AAGKM6F0lMsFKV1WHg4bh66iamhJJX-00vc"
+OWNER_ID = 7957802698
+TELEGRAM_API = 36428426
+TELEGRAM_HASH = "30cba30aa38699e77ce264365e327528"
+DATABASE_URL = "mongodb+srv://thebochan9_db_user:SBDyUzrO7zBiClzn@cluster0.u89zs0q.mongodb.net/?appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -12,7 +12,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-5221879731"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -47,8 +47,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "Beast"
-AUTHOR_URL = "https://t.me/MirrorBeast"
+AUTHOR_NAME = "TheOnlyYuji"
+AUTHOR_URL = "https://t.me/Im_XDareDevil"
 
 # Task Limits
 DIRECT_LIMIT = 0
